@@ -7,7 +7,7 @@ import App from './App';
 import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(
-  <Connector mqttProps="ws://mqtt.hsl.fi:1883/">
+  <Connector mqttProps="wss://mqtt.hsl.fi:443/">
     <App />
   </Connector>,
   document.getElementById('root'));
