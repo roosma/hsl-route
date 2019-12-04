@@ -4,7 +4,6 @@
   "private": true,
   "homepage": "https://roosma.github.io/hsl-route",
   "dependencies": {
-    "gh-pages": "^2.0.1",
     "leaflet": "^1.4.0",
     "lodash": "^4.17.11",
     "mqtt-react": "^0.0.3",
@@ -29,5 +28,8 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "devDependencies": {
+    "gh-pages": "^2.1.1"
+  }
 }
