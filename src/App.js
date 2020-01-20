@@ -70,7 +70,8 @@ export default subscribe({
     '/hfp/v2/journey/ongoing/vp/+/+/+/2157/2/#',
     '/hfp/v2/journey/ongoing/vp/+/+/+/2124/2/#',
     '/hfp/v2/journey/ongoing/vp/+/+/+/2124K/2/#',
-    '/hfp/v2/journey/ongoing/vp/+/+/+/2510/2/#',
+    '/hfp/v2/journey/ongoing/vp/+/+/+/2544/2/#',
+    //'/hfp/v2/journey/ongoing/vp/+/+/+/2550/+/#',
     //<prefix>/<version>/<journey_type>/<temporal_type>/<event_type>/<transport_mode>/<operator_id>/<vehicle_number>/<route_id>/<direction_id>/<headsign>/<start_time>/<next_stop>/<geohash_level>/<geohash>/#
   ],
 })(App);
